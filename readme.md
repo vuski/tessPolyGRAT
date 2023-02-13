@@ -3,10 +3,10 @@
 
 - tessellatePolygon.hpp 는 폴리곤을 직각삼각형 격자로 분할합니다.
 - 아래와 같은 폴리곤을 넣으면
-![](/image/input.png)
+![](/image/input1.png)
 
 - 아래와 같은 폴리곤을 만들어줍니다.
-![](/image/output.png)
+![](/image/output1.png)
 
 - 반복 사용되는 점들이 많으므로 vertex와 index 형식으로 결과를 내놓습니다.
 
