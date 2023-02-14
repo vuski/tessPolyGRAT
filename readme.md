@@ -1,5 +1,5 @@
 ## 폴리곤을 직각삼각형 격자에 맞춰 분할하기
-## Tessellating the Polygon into a Grid of Right-Angled Triangles
+## Tessellating a Polygon into a Grid of Right-Angled Triangles
 
 - tessellatePolygon.hpp 는 폴리곤을 직각삼각형 격자로 분할합니다.
 - 아래와 같은 폴리곤을 넣으면
